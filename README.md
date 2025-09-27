@@ -64,6 +64,15 @@
 
 ---
 
+## 🕒 Vietnam Time (UTC+7)
+<div align="center">
+
+<!--VN-TIME-->Đang cập nhật...<!--/VN-TIME-->
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
 
@@ -78,6 +87,15 @@
 
 ---
 
+## 🐍 Contribution Graph
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/J2TEAMNHQK/J2TEAMNHQK/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## 📞 Connect With Me
 <div align="center">
 
@@ -85,15 +103,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn%20Hồ%20Quang%20Khải-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nguyễn-hồ-quang-khải/)  
 [![Gmail](https://img.shields.io/badge/Gmail-j2teamnhqk@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:j2teamnhqk@gmail.com)  
 [![Facebook](https://img.shields.io/badge/Facebook-Nguyễn%20Khải-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/nguyenkhai.20555)  
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/J2TEAMNHQK/J2TEAMNHQK/output/github-contribution-grid-snake.svg)
 
 </div>
 

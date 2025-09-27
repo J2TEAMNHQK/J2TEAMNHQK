@@ -92,8 +92,8 @@
 
 ## 🐍 Contribution Graph
 <div align="center">
-  
-![Snake animation](https://github.com/J2TEAMNHQK/J2TEAMNHQK/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/J2TEAMNHQK/J2TEAMNHQK/output/github-contribution-grid-snake.svg)
 
 </div>
 

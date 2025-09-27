@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=780&lines=%F0%9F%8C%8A+Hi+there!+%F0%9F%91%8B+I'm+Nguy%E1%BB%85n+H%E1%BB%93+Quang+Kh%E1%BA%A3i;%F0%9F%8C%88+Welcome+to+my+ocean-themed+profile;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=780&lines=%F0%9F%8C%8A+Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Nguy%E1%BB%85n+H%E1%BB%93+Quang+Kh%E1%BA%A3i;%F0%9F%8F%A1+Ch%C3%A0o+m%E1%BB%ABng+b%E1%BA%A1n+%C4%91%E1%BA%BFn+v%E1%BB%9Bi+ng%C3%B4i+nh%C3%A0+nh%E1%BB%8F+c%E1%BB%A7a+m%C3%ACnh;%F0%9F%A4%96+M%C3%ACnh+th%C3%ADch+AI+%26+Machine+Learning" alt="Typing SVG" />
 </div>
 
 ---
@@ -7,7 +7,7 @@
 ## 🌸 About Me
 - 🎓 **Sinh viên năm 3** tại **Đại học Giao thông Vận tải TP.HCM**
 - 📊 **GPA**: 3.7/4.0
-- 🌟 Đam mê **AI và Machine Learning**
+- 🌊 Yêu thích **AI, Machine Learning** và công nghệ mới
 - 🏆 **TOEIC**: 600+
 
 ---
@@ -53,24 +53,6 @@
 
 ---
 
-## 🚀 Current Projects & Experience
-- Thực nghiệm **mô hình ngôn ngữ lớn** (ChatGPT, LLaMA, Mistral)
-- Nghiên cứu **RAG pipeline** (FAISS, BM25, Reranker, Graph)
-- Tích hợp **Whisper (STT)** và **Coqui (TTS)**
-- Thu thập & làm sạch dữ liệu AI
-- Viết script Python tiền xử lý & đánh giá mô hình
-- Thử nghiệm chatbot, phân loại văn bản
-
----
-
-## 🌱 Learning Journey
-- 📚 Tự học qua **YouTube** và **sách**
-- 🔍 Theo dõi **xu hướng AI**
-- 💡 Chủ động **học công nghệ mới**
-- 🤝 **Làm việc nhóm** và chia sẻ
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
 
@@ -85,12 +67,12 @@
 
 ---
 
-## 🎞️ Activity
+## ☕ Activity
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HUqsz2jdQYElRm0/giphy.gif" width="480" alt="Ocean Waves"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZwbTFlajR3MXltbDlwbzJueXpocGc0ajFrMHJldTdsaDZwZXdmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTniSsYn5zXppmxgY4/giphy.gif" width="480" alt="Anime Cafe"/>
 <br>
-<em>🌊 Ocean vibes – keep coding, keep flowing.</em>
+<em> Tôi yêu Việt Nam </em>
 
 </div>
 

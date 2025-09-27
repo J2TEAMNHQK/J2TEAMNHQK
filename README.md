@@ -95,11 +95,12 @@
 ---
 
 ## 🎞️ Activity
+## 🎞️ Activity
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Coding Cat"/>
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="400" alt="Sakura Falling"/>
 <br>
-<em>Coding time with a cute cat 🐱💻</em>
+<em>🌸 Hoa anh đào rơi – Nhật Bản vibes 🇯🇵</em>
 
 </div>
 

@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Nguyễn Hồ Quang Khải
-
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=780&lines=%F0%9F%8C%8A+Hi+there!+%F0%9F%91%8B+I'm+Nguy%E1%BB%85n+H%E1%BB%93+Quang+Kh%E1%BA%A3i;%F0%9F%8C%88+Welcome+to+my+ocean-themed+profile;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
+
+---
 
 ## 🌸 About Me
 - 🎓 **Sinh viên năm 3** tại **Đại học Giao thông Vận tải TP.HCM**
@@ -14,7 +14,7 @@
 
 ## 💻 Technical Skills
 
-### Programming Languages
+### 🧑‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
@@ -27,19 +27,19 @@
 ### 🧠 LLMs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-FFDD00?style=flat&logo=meta&logoColor=black)
-![Mistral](https://img.shields.io/badge/Mistral-AFEEEE?style=flat&logo=windicss&logoColor=black)
+![Mistral](https://img.shields.io/badge/Mistral-1E90FF?style=flat&logo=cloudflare&logoColor=white)
 
 ### 📖 RAG (Retrieval-Augmented Generation)
 ![FAISS](https://img.shields.io/badge/FAISS-1E90FF?style=flat&logo=databricks&logoColor=white)
 ![BM25](https://img.shields.io/badge/BM25-FF4500?style=flat&logo=elasticsearch&logoColor=white)
 ![Reranker](https://img.shields.io/badge/Reranker-32CD32?style=flat&logo=github&logoColor=white)
-![NetworkX](https://img.shields.io/badge/Graph-228B22?style=flat&logo=graphql&logoColor=white)
+![Graph/NetworkX](https://img.shields.io/badge/Graph-228B22?style=flat&logo=graphql&logoColor=white)
 
 ### 🎙️ Speech Technologies
 ![Whisper STT](https://img.shields.io/badge/Whisper_STT-008080?style=flat&logo=openai&logoColor=white)
-![Coqui TTS](https://img.shields.io/badge/Coqui_TTS-FF69B4?style=flat&logo=speech-recognition&logoColor=white)
+![Coqui TTS](https://img.shields.io/badge/Coqui_TTS-FF69B4?style=flat&logo=soundcharts&logoColor=white)
 
-### 📊 Data & Visualization
+### 📊 Data & Processing
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
@@ -71,15 +71,6 @@
 
 ---
 
-## 🎯 Interests & Hobbies
-- ⚽ Chơi bóng đá
-- ☕ Khám phá quán cafe
-- 🌸 Du lịch
-- 👨‍🍳 Nấu ăn
-- 📚 Gia sư tiếng Anh lớp 8
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
 
@@ -97,8 +88,9 @@
 ## 🎞️ Activity
 <div align="center">
 
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="400" alt="Sakura Falling"/>
+<img src="https://media.giphy.com/media/l0HUqsz2jdQYElRm0/giphy.gif" width="480" alt="Ocean Waves"/>
 <br>
+<em>🌊 Ocean vibes – keep coding, keep flowing.</em>
 
 </div>
 

@@ -18,30 +18,46 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-### Libraries & Frameworks
-- 📊 **NumPy, Pandas**
-- 🔬 **Scikit-learn**
-- 👁️ **OpenCV**
-- 🔥 **PyTorch** (đang học)
-- 🤗 **Hugging Face**
+### 🧠 LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-FFDD00?style=flat&logo=meta&logoColor=black)
+![Mistral](https://img.shields.io/badge/Mistral-AFEEEE?style=flat&logo=windicss&logoColor=black)
 
-### Tools & Technologies
-- 📈 **Data Analysis** (CSV, SQL)
-- 🗃️ **Database** queries cơ bản
-- 📋 **Data Processing** & preprocessing
+### 📖 RAG (Retrieval-Augmented Generation)
+![FAISS](https://img.shields.io/badge/FAISS-1E90FF?style=flat&logo=databricks&logoColor=white)
+![BM25](https://img.shields.io/badge/BM25-FF4500?style=flat&logo=elasticsearch&logoColor=white)
+![Reranker](https://img.shields.io/badge/Reranker-32CD32?style=flat&logo=github&logoColor=white)
+![NetworkX](https://img.shields.io/badge/Graph-228B22?style=flat&logo=graphql&logoColor=white)
+
+### 🎙️ Speech Technologies
+![Whisper STT](https://img.shields.io/badge/Whisper_STT-008080?style=flat&logo=openai&logoColor=white)
+![Coqui TTS](https://img.shields.io/badge/Coqui_TTS-FF69B4?style=flat&logo=speech-recognition&logoColor=white)
+
+### 📊 Data & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Current Projects & Experience
 - Thực nghiệm **mô hình ngôn ngữ lớn** (ChatGPT, LLaMA, Mistral)
-- Nhận diện, phân loại, segmentation ảnh
+- Nghiên cứu **RAG pipeline** (FAISS, BM25, Reranker, Graph)
+- Tích hợp **Whisper (STT)** và **Coqui (TTS)**
 - Thu thập & làm sạch dữ liệu AI
-- Xử lý NLP cơ bản: phân tích & gán nhãn
 - Viết script Python tiền xử lý & đánh giá mô hình
 - Thử nghiệm chatbot, phân loại văn bản
 
@@ -64,15 +80,6 @@
 
 ---
 
-## 🕒 Vietnam Time (UTC+7)
-<div align="center">
-
-<!--VN-TIME-->Đang cập nhật...<!--/VN-TIME-->
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
 
@@ -87,10 +94,10 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🎞️ Activity
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/J2TEAMNHQK/J2TEAMNHQK/output/github-contribution-grid-snake.svg)
+<img src="https://i.makeagif.com/media/10-26-2020/WL4oDn.gif" width="600" alt="Activity"/>
 
 </div>
 

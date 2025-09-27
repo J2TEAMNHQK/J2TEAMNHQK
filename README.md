@@ -95,12 +95,10 @@
 ---
 
 ## 🎞️ Activity
-## 🎞️ Activity
 <div align="center">
 
 <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="400" alt="Sakura Falling"/>
 <br>
-<em>🌸 Hoa anh đào rơi – Nhật Bản vibes 🇯🇵</em>
 
 </div>
 

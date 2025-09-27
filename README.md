@@ -97,7 +97,9 @@
 ## 🎞️ Activity
 <div align="center">
 
-<img src="https://i.makeagif.com/media/10-26-2020/WL4oDn.gif" width="600" alt="Activity"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Coding Cat"/>
+<br>
+<em>Coding time with a cute cat 🐱💻</em>
 
 </div>
 

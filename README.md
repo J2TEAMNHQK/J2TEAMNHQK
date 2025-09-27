@@ -10,67 +10,90 @@
 - 🌟 Đam mê **AI và Machine Learning**
 - 🏆 **TOEIC**: 600+
 
+---
+
 ## 💻 Technical Skills
 
 ### Programming Languages
-- 🐍 **Python** - Học từ YouTube và sách vở
-- 💾 **SQL/SQLite** - Xử lý cơ sở dữ liệu cơ bản
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### AI & Machine Learning
-- 🤖 **Machine Learning cơ bản** - Tự học qua tài liệu
-- 🧠 **Deep Learning** - Thực nghiệm với các mô hình đơn giản
-- 📝 **NLP (Natural Language Processing)** - Xử lý văn bản cơ bản
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 ### Libraries & Frameworks
-- 📊 **NumPy, Pandas** - Xử lý dữ liệu
-- 🔬 **Scikit-learn** - Machine Learning
-- 👁️ **OpenCV** - Xử lý hình ảnh cơ bản
-- 🔥 **PyTorch** - Deep Learning (đang học)
-- 🤗 **Hugging Face** - Làm việc với LLM
+- 📊 **NumPy, Pandas**
+- 🔬 **Scikit-learn**
+- 👁️ **OpenCV**
+- 🔥 **PyTorch** (đang học)
+- 🤗 **Hugging Face**
 
 ### Tools & Technologies
-- 📈 **Data Analysis** - Phân tích dữ liệu CSV
-- 🗃️ **Database** - SQL queries cơ bản
-- 📋 **Data Processing** - Tiền xử lý dữ liệu
+- 📈 **Data Analysis** (CSV, SQL)
+- 🗃️ **Database** queries cơ bản
+- 📋 **Data Processing** & preprocessing
+
+---
 
 ## 🚀 Current Projects & Experience
+- Thực nghiệm **mô hình ngôn ngữ lớn** (ChatGPT, LLaMA, Mistral)
+- Nhận diện, phân loại, segmentation ảnh
+- Thu thập & làm sạch dữ liệu AI
+- Xử lý NLP cơ bản: phân tích & gán nhãn
+- Viết script Python tiền xử lý & đánh giá mô hình
+- Thử nghiệm chatbot, phân loại văn bản
 
-### 🤖 AI & Machine Learning Projects
-- Tìm hiểu và thực nghiệm các **mô hình ngôn ngữ lớn** (ChatGPT, LLaMA, Mistral)
-- Tham gia **xử lý hình ảnh**: nhận diện, phân loại, segmentation
-- **Thu thập và làm sạch dữ liệu** cho các mô hình AI
-- Xử lý **ngôn ngữ tự nhiên** (NLP): phân tích và gán nhãn dữ liệu văn bản
-- Viết **script Python** cơ bản để tiền xử lý và đánh giá mô hình
-- Thử nghiệm tích hợp AI vào **ứng dụng mẫu**: chatbot, phân loại văn bản
-
-### 📊 Data Science
-- Làm việc với dữ liệu từ **cơ sở dữ liệu SQL** và **file CSV**
-- Phân tích và **visualize dữ liệu** cơ bản
-- **Data cleaning** và preprocessing
-
-> 💡 *Để xem thêm các project chi tiết, hãy ghé thăm **[GitHub](https://github.com/J2TEAMNHQK)** của mình!*
+---
 
 ## 🌱 Learning Journey
-- 📚 Tự học qua **YouTube** và **sách vở**
-- 🔍 Theo dõi **xu hướng AI** mới qua tài liệu và diễn đàn công nghệ
-- 💡 Chủ động **học hỏi công nghệ mới**
-- 🤝 **Làm việc nhóm** và chia sẻ ý tưởng
+- 📚 Tự học qua **YouTube** và **sách**
+- 🔍 Theo dõi **xu hướng AI**
+- 💡 Chủ động **học công nghệ mới**
+- 🤝 **Làm việc nhóm** và chia sẻ
+
+---
 
 ## 🎯 Interests & Hobbies
-- ⚽ **Chơi bóng đá** - Thư giãn và rèn luyện sức khỏe
-- ☕ **Cafe** - Thích khám phá các quán cafe mới
-- 🌸 **Đi chơi những nơi đẹp** - Du lịch và khám phá
-- 👨‍🍳 **Đam mê nấu ăn** - Thử nghiệm các món mới
-- 📚 **Gia sư tiếng Anh lớp 8** - Chia sẻ kiến thức
+- ⚽ Chơi bóng đá
+- ☕ Khám phá quán cafe
+- 🌸 Du lịch
+- 👨‍🍳 Nấu ăn
+- 📚 Gia sư tiếng Anh lớp 8
 
-## 📞 Connect With Me
+---
 
+## 📊 GitHub Stats
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-J2TEAMNHQK-black?style=for-the-badge&logo=github)](https://github.com/J2TEAMNHQK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn%20Hồ%20Quang%20Khải-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nguyễn-hồ-quang-khải/)
-[![Gmail](https://img.shields.io/badge/Gmail-j2teamnhqk@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:j2teamnhqk@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Nguyễn%20Khải-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/nguyenkhai.20555)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=J2TEAMNHQK&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J2TEAMNHQK&layout=compact&theme=radical)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=J2TEAMNHQK&theme=radical)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=J2TEAMNHQK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📞 Connect With Me
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-J2TEAMNHQK-black?style=for-the-badge&logo=github)](https://github.com/J2TEAMNHQK)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nguyễn%20Hồ%20Quang%20Khải-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nguyễn-hồ-quang-khải/)  
+[![Gmail](https://img.shields.io/badge/Gmail-j2teamnhqk@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:j2teamnhqk@gmail.com)  
+[![Facebook](https://img.shields.io/badge/Facebook-Nguyễn%20Khải-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/nguyenkhai.20555)  
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+<div align="center">
+  
+![Snake animation](https://github.com/J2TEAMNHQK/J2TEAMNHQK/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 

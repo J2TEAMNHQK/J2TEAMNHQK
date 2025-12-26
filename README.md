@@ -52,19 +52,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=J2TEAMNHQK&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J2TEAMNHQK&layout=compact&theme=radical)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=J2TEAMNHQK&theme=radical)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=J2TEAMNHQK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## ☕ Activity

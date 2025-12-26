@@ -5,7 +5,7 @@
 ---
 
 ## 🌸 About Me
-- 🎓 **Sinh viên năm 3** tại **Đại học Giao thông Vận tải TP.HCM**
+- 🎓 **Sinh viên năm 3** tại **Trường Đại học Giao thông Vận tải TP.HCM**
 - 📊 **GPA**: 3.7/4.0
 - 🌊 Yêu thích **AI, Machine Learning** và công nghệ mới
 - 🏆 **TOEIC**: 600+
